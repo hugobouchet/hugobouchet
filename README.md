@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, moi c’est [Ton prénom] !
 
-<!--
-**hugobouchet/hugobouchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant(e) en école d'ingénieur big data et intelligence artificielle au CNAM de Chalon sûr Saône 
+💡 En recherche d’une alternance en Big Data & Intelligence Artificielle  
+📍 Basé(e) à Chalon sûr Saône  
+📫 Contact : [[Mail](hugo.bouchet.professionnel@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/hugobouchet/)]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 À propos de moi
+- Passionné(e) par la data science, le machine learning et la valorisation des données.  
+- Curieux et motivé pour appliquer mes connaissances sur des projets concrets.  
+- En apprentissage continu sur les outils du Big Data (PySpark, Hadoop, Airflow...) et les frameworks IA (TensorFlow, PyTorch, Scikit-learn).
+
+---
+
+## 🛠️ Compétences techniques
+
+Langages : Python, SQL, Java, Scala  
+Outils Data : Pandas, NumPy, Spark, Hadoop, Airflow  
+IA / ML : Scikit-learn, TensorFlow, PyTorch  
+Visualisation : Matplotlib, Seaborn, Power BI, Tableau  
+ 
+
+---
+
+## 🚀 Projets récents
+
+| Projet | Description | Technologies |
+|--------|--------------|---------------|
+| [📊 Analyse des ventes](https://github.com/ton-pseudo/nom-du-repo) | Étude et prédiction du chiffre d’affaires d’un e-commerce | Python, Pandas, Scikit-learn |
+| [🤖 Détection d’images](https://github.com/ton-pseudo/nom-du-repo) | Modèle CNN pour classer des images | TensorFlow, Keras |
+| [🧩 Pipeline Big Data](https://github.com/ton-pseudo/nom-du-repo) | Traitement massif de données via PySpark | PySpark, Hadoop |
