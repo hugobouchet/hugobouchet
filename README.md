@@ -1,9 +1,9 @@
-# 👋 Salut, moi c’est [Ton prénom] !
+# Bonjour, moi c’est Hugo !
 
 🎓 Étudiant(e) en école d'ingénieur big data et intelligence artificielle au CNAM de Chalon sûr Saône 
 💡 En recherche d’une alternance en Big Data & Intelligence Artificielle  
 📍 Basé(e) à Chalon sûr Saône  
-📫 Contact : [[Mail](hugo.bouchet.professionnel@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/hugobouchet/)]
+📫 Contact : [hugo.bouchet.professionnel@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/hugobouchet/)]
 
 ---
 
